@@ -1,0 +1,15 @@
+[22-Jul-2023 15:16:13 UTC] PHP Warning:  Undefined array key "admin" in /home/pcbgenou/plainscaptl.com/admin/process.php on line 5
+[22-Jul-2023 15:16:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pcbgenou/plainscaptl.com/admin/process.php on line 5
+[22-Jul-2023 15:16:13 UTC] PHP Warning:  Undefined array key "admin" in /home/pcbgenou/plainscaptl.com/admin/index.php on line 7
+[22-Jul-2023 15:16:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pcbgenou/plainscaptl.com/admin/index.php on line 7
+[22-Jul-2023 15:16:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pcbgenou/plainscaptl.com/admin/index.php on line 69
+[22-Jul-2023 17:54:58 UTC] PHP Warning:  Undefined array key "admin" in /home/pcbgenou/plainscaptl.com/admin/process.php on line 5
+[22-Jul-2023 17:54:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pcbgenou/plainscaptl.com/admin/process.php on line 5
+[22-Jul-2023 17:54:58 UTC] PHP Warning:  Undefined array key "admin" in /home/pcbgenou/plainscaptl.com/admin/index.php on line 7
+[22-Jul-2023 17:54:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pcbgenou/plainscaptl.com/admin/index.php on line 7
+[22-Jul-2023 17:54:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pcbgenou/plainscaptl.com/admin/index.php on line 69
+[24-Jul-2023 19:08:34 UTC] PHP Warning:  Undefined array key "admin" in /home/pcbgenou/plainscaptl.com/admin/process.php on line 5
+[24-Jul-2023 19:08:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pcbgenou/plainscaptl.com/admin/process.php on line 5
+[24-Jul-2023 19:08:34 UTC] PHP Warning:  Undefined array key "admin" in /home/pcbgenou/plainscaptl.com/admin/index.php on line 7
+[24-Jul-2023 19:08:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pcbgenou/plainscaptl.com/admin/index.php on line 7
+[24-Jul-2023 19:08:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pcbgenou/plainscaptl.com/admin/index.php on line 69
